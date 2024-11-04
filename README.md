@@ -33,21 +33,22 @@ To get started with the project, follow these steps:
 
 Ensure you have Python installed, then install the necessary libraries:
 
-## Adjust parameters and configurations as needed to improve model performance.
+Adjust parameters and configurations as needed to improve model performance.
 
-**Dataset**
+## Dataset
 This project uses the UCF101 dataset, a benchmark dataset for action recognition containing 13,320 videos categorized into 101 action classes. Ensure you download the dataset and set the path in the notebook.
 
-**Model Architecture**
+## Model Architecture**
 The model consists of:
 
 - Convolutional Neural Networks (CNN): For feature extraction from individual frames.
 - Long Short-Term Memory (LSTM): For capturing temporal dynamics of the action sequence.
 Model Diagram
 
-**Results**
+## Results
 The model's performance can be evaluated based on accuracy metrics provided in the notebook after training. You can visualize the results and fine-tune the model parameters for better performance.
 
+## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 -Fork the repository.
@@ -56,9 +57,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 -Push to the branch (git push origin feature-branch).
 -Create a new Pull Request.
 
-**License**
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Thank you for checking out this project! For any inquiries or issues, feel free to reach out or open an issue on the repository.
+
 
 
