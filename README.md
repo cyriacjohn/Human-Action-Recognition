@@ -46,7 +46,7 @@ Open the Jupyter Notebook:
 ```bash
 Copy code
 jupyter notebook Copy_of_Human_Action_Recogntion_using_CNN_%2B_LSTM.ipynb
-Run the cells in the notebook to train the model on the provided dataset.
+Run the cells in the notebook to train the model on the provided dataset.```
 
 Adjust parameters and configurations as needed to improve model performance.
 
