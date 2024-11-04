@@ -1,7 +1,5 @@
 # Human Action Recognition using CNN + LSTM
 
-![Human Action Recognition](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*-kd-Nk1RauQ1GkJvlK0tWg.png)
-
 ## Overview
 
 Human Action Recognition is a significant area of research in computer vision, where the goal is to automatically identify human actions in video sequences. This project leverages the power of Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) networks to achieve high accuracy in recognizing actions performed by individuals in video frames.
