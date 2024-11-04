@@ -10,7 +10,6 @@ This repository contains a Jupyter Notebook that implements a model combining CN
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
 - [Results](#results)
@@ -38,7 +37,7 @@ Adjust parameters and configurations as needed to improve model performance.
 ## Dataset
 This project uses the UCF101 dataset, a benchmark dataset for action recognition containing 13,320 videos categorized into 101 action classes. Ensure you download the dataset and set the path in the notebook.
 
-## Model Architecture**
+## Model Architecture
 The model consists of:
 
 - Convolutional Neural Networks (CNN): For feature extraction from individual frames.
