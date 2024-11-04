@@ -42,7 +42,6 @@ The model consists of:
 
 - Convolutional Neural Networks (CNN): For feature extraction from individual frames.
 - Long Short-Term Memory (LSTM): For capturing temporal dynamics of the action sequence.
-Model Diagram
 
 ## Results
 The model's performance can be evaluated based on accuracy metrics provided in the notebook after training. You can visualize the results and fine-tune the model parameters for better performance.
@@ -50,11 +49,11 @@ The model's performance can be evaluated based on accuracy metrics provided in t
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
--Fork the repository.
--Create a new branch (git checkout -b feature-branch).
--Make your changes and commit them (git commit -m 'Add new feature').
--Push to the branch (git push origin feature-branch).
--Create a new Pull Request.
+- Fork the repository.
+- Create a new branch (git checkout -b feature-branch).
+- Make your changes and commit them (git commit -m 'Add new feature').
+- Push to the branch (git push origin feature-branch).
+- Create a new Pull Request.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
