@@ -33,17 +33,17 @@ To get started with the project, follow these steps:
    git clone https://github.com/cyriacjohn/Human-Action-Recognition.git
    cd Human-Action-Recognition
 
-Install the required packages:
+2. **Install the required packages:**
 
 Ensure you have Python installed, then install the necessary libraries:
 
-bash
+```bash
 Copy code
 pip install -r requirements.txt
 Usage
 Open the Jupyter Notebook:
 
-bash
+```bash
 Copy code
 jupyter notebook Copy_of_Human_Action_Recogntion_using_CNN_%2B_LSTM.ipynb
 Run the cells in the notebook to train the model on the provided dataset.
