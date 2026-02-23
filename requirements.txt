@@ -1,0 +1,11 @@
+tensorflow
+opencv-python
+numpy
+matplotlib
+scikit-learn
+moviepy
+mtcnn
+pillow
+telepot
+streamlit
+gradio
